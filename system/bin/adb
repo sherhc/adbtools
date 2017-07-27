@@ -1,0 +1,5 @@
+#!/system/bin/sh
+
+export HOME=/sdcard;
+export TMPDIR=/sdcard;
+/system/bin/adb.bin $*;

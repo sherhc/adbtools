@@ -1,0 +1,7 @@
+id=Android-tools
+name=Android-tools
+version=v1
+versionCode=1
+author=sherhc
+description=adb & fastboot tools
+template=4
